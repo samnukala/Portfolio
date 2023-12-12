@@ -2,7 +2,7 @@
 #  Name: Samanvitha Nukala
 
 import sys
-import time
+import time 
 
 # Purpose: Determines how many lines of code will be written
 #          before the coder crashes to sleep. Must be implemented
