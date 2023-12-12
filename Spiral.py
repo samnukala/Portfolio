@@ -1,5 +1,5 @@
 #  File: Spiral.py
-#  Name: Samanvitha Nukala
+#  Name: Samanvitha Nukala 
 
 import sys
 
