@@ -5,7 +5,7 @@ import math
 import sys
 
 # Input: a list of integers representing the sequence of numbers in a password, 
-# len(ptrn) >= 2
+# len(ptrn) >= 2 
 # Output: distance traveled on the number pad
 
 def get_distance(pattern):
