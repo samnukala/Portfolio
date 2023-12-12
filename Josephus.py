@@ -1,6 +1,6 @@
 #  File: Josephus.py
 #  Name: Samanvitha Nukala
-
+ 
 import sys
 
 # This class represents one soldier.
